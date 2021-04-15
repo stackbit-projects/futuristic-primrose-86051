@@ -5,9 +5,7 @@ sections:
     type: section_hero
     title: Welcome to Prostaid
     image: images/Layer 5.png
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: "Our mission is to inform you about prostate cancer. If you were newly diagnosed with prostate cancer ,\rthis website will help educate you about all the aspects of this disease.\n\nThere are multiple treatment options for prostate cancer. The process of choosing a treatment for your disease can be\x03overwhelming and confusing. However, this website offers an interactive tool that help you choose the best\x03treatment based on your personal preferences and priorities.\n"
     actions:
       - label: Get Started
         url: /docs
